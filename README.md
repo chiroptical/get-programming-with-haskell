@@ -9,3 +9,8 @@ the book without supporting the stream.
 
 - [support the stream](https://manning.com/books/learn-haskell?a_aid=chiroptical&a_bid=766c7388)
 - [rather not support the stream](https://manning.com/books/learn-haskell)
+
+#### Notes
+
+- Open Chromium based browser in "app" mode, e.g. `brave-browser-stable
+  --app="https://{website}"`
